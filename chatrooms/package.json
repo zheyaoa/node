@@ -1,0 +1,20 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "a chatrooms demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zheyao",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
